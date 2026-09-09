@@ -14,8 +14,8 @@
 
 - 🎓 B.Sc. in Computer Science, Arab Academy for Science, Technology & Maritime Transport (AAST), Alexandria, Egypt
 - 💻 I build responsive, well-structured web apps end to end — from REST APIs and database design to polished, accessible UIs
-- 🏥 Previously worked on a provider-facing medical/healthcare platform, building reservation, ordering, and pricing-request modules
-- 🌱 Also comfortable in C#/.NET, Python, and Java, and currently deepening my back-end and system-design skills
+- 🏥 Previously worked on a medical health insurance app modules.
+- 🌱 Also comfortable in C#/.NET, Python, and Javascript, and currently deepening my back-end and system-design skills
 - 🌍 Fluent in English, A2 in German
 - 🤝 Community Service Director, Rotaract Alexandria Marine
 
@@ -28,7 +28,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
@@ -72,8 +71,7 @@ A responsive admin dashboard with centralized state management, localization/mul
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
 
-<sub>⚠️ Replace the LinkedIn link above with your actual profile URL before publishing.</sub>
-
+<sub> https://www.linkedin.com/in/rodaina-mahmoud/
 <br>
 
 <div align="center">
