@@ -69,7 +69,8 @@ A responsive admin dashboard with centralized state management, localization/mul
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/rodaina-mahmoud/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodaina-mahmoud/)
+
 <sub> 
 <br>
 
